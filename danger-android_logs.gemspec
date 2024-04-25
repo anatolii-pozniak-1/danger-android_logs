@@ -8,10 +8,10 @@ Gem::Specification.new do |spec|
   spec.name          = "danger-android_logs"
   spec.version       = AndroidLogs::VERSION
   spec.authors       = ["Anatolii Pozniak"]
-  spec.email         = ["anatolii.pozniak@welltech.com"]
+  spec.email         = ["wopoziak@gmail.com"]
   spec.description   = "A short description of danger-android_logs."
   spec.summary       = "A longer description of danger-android_logs."
-  spec.homepage      = "https://github.com/Anatolii Pozniak/danger-android_logs"
+  spec.homepage      = "https://github.com/anatolii-pozniak-1/danger-android_logs"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
